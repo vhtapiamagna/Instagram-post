@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.post {
+    background-color: white;
+    width: 400px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.header {
+display: flex;
+align-items: center;
+height: 50px;
+
+
+
+}
+
+.text-container {
+    width: 30px;
+    
+    
+    
+    
+}
+.puntos {
+    margin-left: auto;
+    margin-right: 15px;
+}
+
+img {
+    width: 400px;
+}
+
+i {
+    font-size: 24px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+
+.contenedor-icons {
+    display: flex;
+    
+   
+    
+}
+
+.book-mark {
+    margin-left: auto;
+    margin-right: 15px;
+    
+    
+    
+}
+p {
+    margin: 15px;
+    font-size: 12px;
+}
+
